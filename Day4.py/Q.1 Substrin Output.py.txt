@@ -1,0 +1,12 @@
+program to extract Substring !! 
+
+Enter a sentence of your choice : 
+What we think we become ; we are Python programmer !!
+
+Enter a search Letter:p
+
+Substring count:2 
+
+Length=53 
+
+Index of the Sub_string :33 

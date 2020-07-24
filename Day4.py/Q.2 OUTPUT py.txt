@@ -1,0 +1,6 @@
+$$$$$$$$$$$$$ program to convert string !! $$$$$$$$$$$$$$$$$4
+Enter a sentence: 
+Hello everyone how are you
+Lower cased sentence: hello everyone how are you 
+
+Upper cased sentence: HELLO EVERYONE HOW ARE YOU 

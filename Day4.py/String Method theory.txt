@@ -1,0 +1,13 @@
+NAME:Shubhangi Deshmukh
+        Day4 Assignment
+        Explain string method():
+            lower():this method convert the given string into a lower
+                case sentence/character!!
+                ex:
+                    String input:Hey i am shubhangi!!
+                        output: Hey i am subhangi!!
+             Upper():this method converts the given string into a upper cased sentence!!
+                ex
+                String input:Hey hello LetsUpgrade?
+                    output:HEY HELLO LETSUPGRADE ?
+                        
